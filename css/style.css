@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-nav #fh5co-logo a > span {
-  color: #f35f55;
+  color: #bedc66;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-top: 0px;
   left: 50%;
   margin-left: -4px;
-  background: #f35f55;
+  background: #bedc66;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -491,7 +491,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(42, 54, 59, 0.5);
+  background: rgba(42, 54, 59, 0.3);
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
@@ -738,7 +738,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #0C9CEE;
 }
 #fh5co-blog .fh5co-post h3 a:hover {
-  color: #f35f55;
+  color: #bedc66;
 }
 #fh5co-blog .fh5co-post .fh5co-date {
   display: block;
@@ -794,7 +794,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .btn {
   height: 54px;
   border: none;
-  background: #f35f55;
+  background: #bedc66;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
