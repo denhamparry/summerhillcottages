@@ -82,13 +82,13 @@ body {
 }
 
 a {
-  color: #0C9CEE;
+  color: #bedc66;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #0C9CEE;
+  color: #bedc66;
   outline: none;
   text-decoration: none;
 }
@@ -106,17 +106,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #0C9CEE;
+  background: #bedc66;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #0C9CEE;
+  background: #bedc66;
 }
 
 ::selection {
   color: #fff;
-  background: #0C9CEE;
+  background: #bedc66;
 }
 
 /* =======================================================
@@ -735,7 +735,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px;
 }
 #fh5co-blog .fh5co-post h3 a {
-  color: #0C9CEE;
+  color: #bedc66;
 }
 #fh5co-blog .fh5co-post h3 a:hover {
   color: #bedc66;
@@ -835,9 +835,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #0C9CEE;
+  background: #bedc66;
   color: #fff;
-  border: 2px solid #0C9CEE;
+  border: 2px solid #bedc66;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #20a7f4;
@@ -1016,7 +1016,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: none;
 }
 .pagination > li.active > a {
-  background: #0C9CEE;
+  background: #bedc66;
   -webkit-box-shadow: 4px 11px 35px -14px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 4px 11px 35px -14px rgba(0, 0, 0, 0.5);
   -ms-box-shadow: 4px 11px 35px -14px rgba(0, 0, 0, 0.5);
@@ -1080,7 +1080,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #0C9CEE;
+  color: #bedc66;
   position: absolute;
   left: 0;
   top: .05em;
@@ -1124,7 +1124,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #0C9CEE;
+  border-color: #bedc66;
 }
 
 
@@ -1186,7 +1186,7 @@ footer{
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #0C9CEE;
+  color: #bedc66;
   padding-left: 10px;
   padding-right: 10px;
 }
